@@ -19,6 +19,6 @@ A lightweight and efficient machine learning project to classify **SMS messages 
 ```bash
 ├── PREPROCESSING.py        # Loads, cleans, and vectorizes SMS messages using TF-IDF
 ├── TRAINING.py             # Trains the best model using GridSearch on LightGBM
-├── PREDICTION.py          # Loads trained model and classifies input sms
+├── PREDICTION.py          # Loads trained model and classifies input sms messages
 ├── models/                   # Stores the trained model and vectorizer
 ├── data/                     # Stores processed feature data
